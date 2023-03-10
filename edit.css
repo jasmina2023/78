@@ -1,0 +1,85 @@
+/*Selector {
+	Property: value:
+}	*/
+
+* {
+	text-align: left;
+}
+body {
+	background-image: url(freedom.jpg);
+	background-image: cover;
+	
+}
+
+
+h2 {
+	color: blue;
+	text-align: center;
+	font-size: 60px;
+	text-decoration: underline;
+	float: unset;
+	position: absolute;
+	top: 10px;
+	right: 0px;
+	left: 3px;
+	font-style: italic;
+	font-family:<link href="https://fonts.googleapis.com/css2?family=Titan+One&display=swap" rel="stylesheet">
+;
+
+}
+
+
+
+p {
+	color: white;
+	text-align: justify;
+	font-size: 70px;
+}
+
+span {
+	font-size: 3em;
+	color: magenta;
+	background-color: white;
+}
+
+
+p {
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 130%;
+	font-family: calibri;
+	
+    
+	
+}
+
+
+}
+
+img {
+	float: right;
+
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	font-size: 40px;
+	color:fuchsia;
+	background-color: lightblue;
+}
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
